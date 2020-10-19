@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Quentinha M",
+      "price": 8,
+      "quantity": 1,
+      "image": "http://tutofox.com/foodapp//food/american/beef-grill.png"
+    },
+    {
+      "id": 2,
+      "name": "Quentinha G",
+      "price": 14,
+      "quantity": 1,
+      "image": "http://tutofox.com/foodapp//food/american/chicken-piccata.png"
+    },
+    {
+      "id": 3,
+      "name": "Sobremesa",
+      "price": 3,
+      "quantity": 1,
+      "image": "http://tutofox.com/foodapp//food/american/chicken-romesco.png"
+    },
+    {
+      "id": 22,
+      "name": "Sprite",
+      "price": 5,
+      "quantity": 1,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+]
